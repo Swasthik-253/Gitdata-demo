@@ -1,4 +1,4 @@
 # Gitdata-demo
-This repository is to practice the Git
+This repository is created to practice the commands of the Git.
 
-Author- Swasthik Salian
+Author- Swasthik Poojary
